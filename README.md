@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm #CISSE410</h1>
 <h3 align="center">La curiosité et la motivation au cœur de ce que je fais. #CISSE410</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cisse410&label=Profile%20views&color=0e75b6&style=flat" alt="cisse410" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cisse410" alt="cisse410" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/issakha-cisse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/issakha-cisse/" height="30" width="40" /></a>
