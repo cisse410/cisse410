@@ -2,9 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi+I+Am+Mouhamedoune+FALL;A+Junior+Full+Stack+Web+Developer;A+Junior+Mobile+Developer)]()
-
-<h3 align="center">La curiosité et la motivation au cœur de ce que je fais. #CISSE410</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi+I+Am+CISSE410;A+Mobile+Developer+Enthusiast;La+curiosité+et+la+motivation+au+cœur+de+ce+que+je+fais;#CISSE410)]()
 
 ![](https://komarev.com/ghpvc/?username=cisse410)
 
