@@ -11,7 +11,7 @@
 
 ### whoami
 
-Étudiant en informatique passionné par le développement web et mobile. Je construis des projets concrets avec des technologies modernes, j'explore de nouvelles stacks, et j'apprends quelque chose de nouveau chaque jour.
+Passionné par le développement web et mobile. Je construis des projets concrets avec des technologies modernes, j'explore de nouvelles stacks, et j'apprends quelque chose de nouveau chaque jour.
 
 ---
 
